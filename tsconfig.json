@@ -1,0 +1,10 @@
+{
+  "include": [
+    "cypress/integration/**/*.spec.ts"
+  ],
+  "compilerOptions": {
+    "rootDir": "./",
+    "outDir": "build",
+    "sourceMap": false
+  }
+}
